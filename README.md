@@ -192,9 +192,7 @@ Register values and processor behavior were validated through simulation wavefor
 
 
 ## Future Improvements
-
-- Complete RV32I Instruction Support
-- Branch Prediction Unit
+  
 - Cache Memory Integration
 - Performance Analysis (CPI and Speedup)
 - Exception and Interrupt Handling
